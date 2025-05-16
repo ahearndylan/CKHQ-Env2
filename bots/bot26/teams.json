@@ -1,0 +1,398 @@
+[
+  {
+    "year": 1980,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Magic Johnson",
+    "ppg_range": [18, 24],
+    "overall": 91
+  },
+  {
+    "year": 1981,
+    "team": "Boston Celtics",
+    "short": "Celtics",
+    "emoji": "☘️",
+    "star_player": "Larry Bird",
+    "ppg_range": [21, 28],
+    "overall": 92
+  },
+  {
+    "year": 1982,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Magic Johnson",
+    "ppg_range": [18, 24],
+    "overall": 92
+  },
+  {
+    "year": 1983,
+    "team": "Philadelphia 76ers",
+    "short": "Sixers",
+    "emoji": ["🔵", "🔴"],
+    "star_player": "Moses Malone",
+    "ppg_range": [22, 28],
+    "overall": 91
+  },
+  {
+    "year": 1984,
+    "team": "Boston Celtics",
+    "short": "Celtics",
+    "emoji": "☘️",
+    "star_player": "Larry Bird",
+    "ppg_range": [21, 28],
+    "overall": 93
+  },
+  {
+    "year": 1985,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Magic Johnson",
+    "ppg_range": [18, 24],
+    "overall": 93
+  },
+  {
+    "year": 1986,
+    "team": "Boston Celtics",
+    "short": "Celtics",
+    "emoji": "☘️",
+    "star_player": "Larry Bird",
+    "ppg_range": [21, 28],
+    "overall": 94
+  },
+  {
+    "year": 1987,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Magic Johnson",
+    "ppg_range": [19, 25],
+    "overall": 94
+  },
+  {
+    "year": 1988,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "James Worthy",
+    "ppg_range": [20, 27],
+    "overall": 92
+  },
+  {
+    "year": 1989,
+    "team": "Detroit Pistons",
+    "short": "Pistons",
+    "emoji": ["🔵", "🔴"],
+    "star_player": "Isiah Thomas",
+    "ppg_range": [20, 26],
+    "overall": 91
+  },
+  {
+    "year": 1990,
+    "team": "Detroit Pistons",
+    "short": "Pistons",
+    "emoji": ["🔵", "🔴"],
+    "star_player": "Isiah Thomas",
+    "ppg_range": [20, 26],
+    "overall": 91
+  },
+  {
+    "year": 1991,
+    "team": "Chicago Bulls",
+    "short": "Bulls",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Michael Jordan",
+    "ppg_range": [30, 36],
+    "overall": 96
+  },
+  {
+    "year": 1992,
+    "team": "Chicago Bulls",
+    "short": "Bulls",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Michael Jordan",
+    "ppg_range": [30, 36],
+    "overall": 97
+  },
+  {
+    "year": 1993,
+    "team": "Chicago Bulls",
+    "short": "Bulls",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Michael Jordan",
+    "ppg_range": [30, 36],
+    "overall": 97
+  },
+  {
+    "year": 1994,
+    "team": "Houston Rockets",
+    "short": "Rockets",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Hakeem Olajuwon",
+    "ppg_range": [24, 30],
+    "overall": 94
+  },
+  {
+    "year": 1995,
+    "team": "Houston Rockets",
+    "short": "Rockets",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Hakeem Olajuwon",
+    "ppg_range": [24, 30],
+    "overall": 94
+  },
+  {
+    "year": 1996,
+    "team": "Chicago Bulls",
+    "short": "Bulls",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Michael Jordan",
+    "ppg_range": [30, 36],
+    "overall": 98
+  },
+  {
+    "year": 1997,
+    "team": "Chicago Bulls",
+    "short": "Bulls",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Michael Jordan",
+    "ppg_range": [29, 34],
+    "overall": 97
+  },
+  {
+    "year": 1998,
+    "team": "Chicago Bulls",
+    "short": "Bulls",
+    "emoji": ["🔴", "⚫"],
+    "star_player": "Michael Jordan",
+    "ppg_range": [28, 33],
+    "overall": 97
+  },
+  {
+    "year": 1999,
+    "team": "San Antonio Spurs",
+    "short": "Spurs",
+    "emoji": "⚪",
+    "star_player": "Tim Duncan",
+    "ppg_range": [21, 27],
+    "overall": 93
+  },
+  {
+    "year": 2000,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Shaquille O'Neal",
+    "ppg_range": [28, 35],
+    "overall": 95
+  },
+  {
+    "year": 2001,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Shaquille O'Neal",
+    "ppg_range": [28, 35],
+    "overall": 96
+  },
+  {
+    "year": 2002,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Shaquille O'Neal",
+    "ppg_range": [27, 34],
+    "overall": 95
+  },
+  {
+    "year": 2003,
+    "team": "San Antonio Spurs",
+    "short": "Spurs",
+    "emoji": "⚪",
+    "star_player": "Tim Duncan",
+    "ppg_range": [22, 28],
+    "overall": 93
+  },
+  {
+    "year": 2004,
+    "team": "Detroit Pistons",
+    "short": "Pistons",
+    "emoji": ["🔵", "🔴"],
+    "star_player": "Chauncey Billups",
+    "ppg_range": [18, 24],
+    "overall": 90
+  },
+  {
+    "year": 2005,
+    "team": "San Antonio Spurs",
+    "short": "Spurs",
+    "emoji": "⚪",
+    "star_player": "Tim Duncan",
+    "ppg_range": [20, 26],
+    "overall": 92
+  },
+  {
+    "year": 2006,
+    "team": "Miami Heat",
+    "short": "Heat",
+    "emoji": "🔴",
+    "star_player": "Dwyane Wade",
+    "ppg_range": [25, 32],
+    "overall": 92
+  },
+  {
+    "year": 2007,
+    "team": "San Antonio Spurs",
+    "short": "Spurs",
+    "emoji": "⚪",
+    "star_player": "Tony Parker",
+    "ppg_range": [18, 24],
+    "overall": 92
+  },
+  {
+    "year": 2008,
+    "team": "Boston Celtics",
+    "short": "Celtics",
+    "emoji": "☘️",
+    "star_player": "Paul Pierce",
+    "ppg_range": [20, 26],
+    "overall": 93
+  },
+  {
+    "year": 2009,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Kobe Bryant",
+    "ppg_range": [26, 32],
+    "overall": 95
+  },
+  {
+    "year": 2010,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "Kobe Bryant",
+    "ppg_range": [26, 32],
+    "overall": 95
+  },
+  {
+    "year": 2011,
+    "team": "Dallas Mavericks",
+    "short": "Mavericks",
+    "emoji": ["🔵", "⚪"],
+    "star_player": "Dirk Nowitzki",
+    "ppg_range": [24, 30],
+    "overall": 92
+  },
+  {
+    "year": 2012,
+    "team": "Miami Heat",
+    "short": "Heat",
+    "emoji": "🔴",
+    "star_player": "LeBron James",
+    "ppg_range": [27, 33],
+    "overall": 95
+  },
+  {
+    "year": 2013,
+    "team": "Miami Heat",
+    "short": "Heat",
+    "emoji": "🔴",
+    "star_player": "LeBron James",
+    "ppg_range": [27, 33],
+    "overall": 95
+  },
+  {
+    "year": 2014,
+    "team": "San Antonio Spurs",
+    "short": "Spurs",
+    "emoji": "⚪",
+    "star_player": "Kawhi Leonard",
+    "ppg_range": [17, 23],
+    "overall": 92
+  },
+  {
+    "year": 2015,
+    "team": "Golden State Warriors",
+    "short": "Warriors",
+    "emoji": "🟡",
+    "star_player": "Stephen Curry",
+    "ppg_range": [26, 33],
+    "overall": 96
+  },
+  {
+    "year": 2016,
+    "team": "Cleveland Cavaliers",
+    "short": "Cavaliers",
+    "emoji": "⚫",
+    "star_player": "LeBron James",
+    "ppg_range": [27, 33],
+    "overall": 96
+  },
+  {
+    "year": 2017,
+    "team": "Golden State Warriors",
+    "short": "Warriors",
+    "emoji": "🟡",
+    "star_player": "Kevin Durant",
+    "ppg_range": [25, 31],
+    "overall": 97
+  },
+  {
+    "year": 2018,
+    "team": "Golden State Warriors",
+    "short": "Warriors",
+    "emoji": "🟡",
+    "star_player": "Kevin Durant",
+    "ppg_range": [25, 31],
+    "overall": 97
+  },
+  {
+    "year": 2019,
+    "team": "Toronto Raptors",
+    "short": "Raptors",
+    "emoji": "🔴",
+    "star_player": "Kawhi Leonard",
+    "ppg_range": [24, 30],
+    "overall": 94
+  },
+  {
+    "year": 2020,
+    "team": "Los Angeles Lakers",
+    "short": "Lakers",
+    "emoji": ["🟣", "🟡"],
+    "star_player": "LeBron James",
+    "ppg_range": [24, 30],
+    "overall": 94
+  },
+  {
+    "year": 2021,
+    "team": "Milwaukee Bucks",
+    "short": "Bucks",
+    "emoji": "🟢",
+    "star_player": "Giannis Antetokounmpo",
+    "ppg_range": [26, 32],
+    "overall": 95
+  },
+  {
+    "year": 2022,
+    "team": "Golden State Warriors",
+    "short": "Warriors",
+    "emoji": "🟡",
+    "star_player": "Stephen Curry",
+    "ppg_range": [26, 33],
+    "overall": 96
+  },
+  {
+    "year": 2023,
+    "team": "Denver Nuggets",
+    "short": "Nuggets",
+    "emoji": "🔷",
+    "star_player": "Nikola Jokic",
+    "ppg_range": [26, 32],
+    "overall": 97
+  }
+]
