@@ -23,12 +23,16 @@ client = tweepy.Client(
 auth = tweepy.OAuth1UserHandler(api_key, api_secret, access_token, access_token_secret)
 api_v1 = tweepy.API(auth)
 
+# === File path setup ===
+base_dir = os.path.dirname(os.path.abspath(__file__))
+teams_path = os.path.join(base_dir, "teams.json")
+used_file = os.path.join(base_dir, "used_matchups.json")
+
 # === Load team data ===
-with open("teams.json", "r") as f:
+with open(teams_path, "r") as f:
     teams = json.load(f)
 
 # === Load used matchups ===
-used_file = "used_matchups.json"
 if os.path.exists(used_file):
     with open(used_file, "r") as f:
         used_matchups = json.load(f)
