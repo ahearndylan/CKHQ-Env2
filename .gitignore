@@ -1,4 +1,18 @@
+# Python virtualenvs
 venv/
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Env/Secrets
 .env
+
+# Headshot cache / images
+img/
+assets/headshots/
+
+# OS cruft
+.DS_Store
+Thumbs.db

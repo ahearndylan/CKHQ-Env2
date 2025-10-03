@@ -1,9 +1,8 @@
-import json
 import os
-from datetime import datetime
-import requests
+import json
+from datetime import date, datetime
 import tweepy
-import tempfile
+import random
 
 # ======================= #
 # TWITTER AUTHENTICATION  #
@@ -26,73 +25,80 @@ auth = tweepy.OAuth1UserHandler(api_key, api_secret, access_token, access_token_
 api_v1 = tweepy.API(auth)
 
 # ======================= #
-# LOAD PLAYER DATA        #
+# CONFIG & PATHS          #
 # ======================= #
-base_dir = os.path.dirname(os.path.abspath(__file__))
-players_file = os.path.join(base_dir, "players.json")
-
-with open(players_file, "r") as f:
-    players = json.load(f)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BIRTHDAYS_JSON = os.path.join(BASE_DIR, "players_birthdays.json")
+HEADSHOTS_DIR = os.path.join(BASE_DIR, "assets", "headshots")
 
 # ======================= #
-# CHECK FOR BIRTHDAYS     #
+# TEMPLATES               #
 # ======================= #
-today = datetime.today().strftime("%m-%d")
-birthdays_today = [p for p in players if p["birthdate"][5:] == today]
+TEMPLATES = [
+    "👑 The Court honors {player} today.\n\nThey turn {age} as their reign continues. 🎂\n\n#NBA #CourtKingsHQ",
+    "🎂 All rise for {player}.\n\nThe King celebrates {age} years of dominance. 👑\n\n#NBA #CourtKingsHQ",
+    "📊 HQ Log > Birthday Event\n\nPlayer: {player}\n\nAge milestone: {age} 🎂\n\n#NBA #CourtKingsHQ",
+    "🖥️ System Alert: {player} turns {age} today.\n\nTimeline updated. 👑\n\n#NBA #CourtKingsHQ",
+    "⚡ Data Ping\n\nSubject: {player} | New Age: {age} 🎂\n\n#NBA #CourtKingsHQ"
+]
 
-if not birthdays_today:
-    print("🎂 No birthdays today for notable players.")
-    exit()
-
 # ======================= #
-# HEADSHOT HELPER         #
+# HELPER FUNCTIONS        #
 # ======================= #
-def fetch_headshot_image(player_id):
-    url = f"https://cdn.nba.com/headshots/nba/latest/1040x760/{player_id}.png"
+def calculate_age(birthday_str):
+    """birthday_str is in YYYY-MM-DD format"""
     try:
-        response = requests.get(url, timeout=10)
-        if response.status_code == 200:
-            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix=".png")
-            with open(temp_file.name, "wb") as f:
-                f.write(response.content)
-            return temp_file.name
+        bday = datetime.strptime(birthday_str, "%Y-%m-%d").date()
+        today = date.today()
+        age = today.year - bday.year - ((today.month, today.day) < (bday.month, bday.day))
+        return age
     except Exception as e:
-        print(f"❌ Error downloading image for player_id {player_id}: {e}")
-    return None
+        print(f"⚠️ Error calculating age for {birthday_str}: {e}")
+        return None
 
 # ======================= #
-# POST TWEETS             #
+# MAIN BOT LOGIC          #
 # ======================= #
-for player in birthdays_today:
-    name = player["full_name"]
-    birth_year = player["birthdate"][:4]
-    age = datetime.today().year - int(birth_year)
+def main():
+    today = date.today()
+    today_str = today.strftime("%m-%d")  # format birthdays in MM-DD
 
-    tweet_text = f"""🎉 Happy Birthday to NBA player {name}!
+    with open(BIRTHDAYS_JSON, "r", encoding="utf-8") as f:
+        players = json.load(f)
 
-Born on this day in {birth_year}, {name} turns {age} today 🥳
+    birthday_players = [p for p in players if p.get("birthday") == today_str]
 
-Wishing a big year ahead! 🎂
+    if not birthday_players:
+        print("📭 No NBA birthdays today.")
+        return
 
-#NBABirthday #CourtKingsHQ
-"""
+    for player in birthday_players:
+        name = player["name"]
+        pid = str(player["id"])
+        full_bday = player.get("full_birthday")  # YYYY-MM-DD stored in JSON
+        age = calculate_age(full_bday) if full_bday else "?"
 
-    media_id = None
-    if player.get("player_id"):
-        img_path = fetch_headshot_image(player["player_id"])
-        if img_path:
-            try:
-                uploaded = api_v1.media_upload(img_path)
-                media_id = uploaded.media_id
-                os.remove(img_path)  # Clean up
-            except Exception as e:
-                print(f"❌ Error uploading image for {name}: {e}")
+        # Pick random template
+        template = random.choice(TEMPLATES)
+        tweet = template.format(player=name, age=age)
 
-    try:
-        if media_id:
-            client.create_tweet(text=tweet_text, media_ids=[media_id])
-        else:
-            client.create_tweet(text=tweet_text)
-        print(f"✅ Tweet posted for {name}")
-    except Exception as e:
-        print(f"❌ Error posting tweet for {name}: {e}")
+        image_path = os.path.join(HEADSHOTS_DIR, f"{pid}.png")
+
+        print("\n=== TWEET PREVIEW ===\n")
+        print(tweet)
+
+        try:
+            if os.path.exists(image_path):
+                media = api_v1.media_upload(image_path)
+                client.create_tweet(text=tweet, media_ids=[media.media_id])
+                print(f"✅ Posted with image for {name}")
+            else:
+                client.create_tweet(text=tweet)
+                print(f"✅ Posted without image (no headshot) for {name}")
+
+        except Exception as e:
+            print(f"❌ Error posting {name}: {e}")
+
+
+if __name__ == "__main__":
+    main()

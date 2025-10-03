@@ -5,6 +5,7 @@ import tweepy
 import random
 from supabase import create_client, Client
 from datetime import date
+import pandas as pd  # <-- needed for safe season aggregation
 
 # === Supabase Credentials ===
 url = "https://fjtxowbjnxclzcogostk.supabase.co"
@@ -91,36 +92,89 @@ print(f"👑⏳ Milestone Watch – Scanning {len(top_players)} stars...\n")
 
 milestone_tweets = []
 
+# === Helper: compute correct career totals (handles TOT rows) ===
+def career_totals_from_df(df_raw: pd.DataFrame) -> dict:
+    """
+    For each season, if a TOT row exists use it; otherwise sum team rows.
+    Returns dict with PTS, AST, REB, FG3M totals across seasons.
+    """
+    # Keep modern seasons (your original filter)
+    df = df_raw[df_raw["SEASON_ID"].str.startswith("2")].copy()
+
+    if "TEAM_ABBREVIATION" not in df.columns:
+        # Fallback: group by season and sum
+        season_totals = (
+            df.groupby("SEASON_ID")[["PTS", "AST", "REB", "FG3M"]]
+            .sum(numeric_only=True)
+            .reset_index()
+        )
+    else:
+        parts = []
+        for season, grp in df.groupby("SEASON_ID", sort=False):
+            if (grp["TEAM_ABBREVIATION"] == "TOT").any():
+                row = grp.loc[grp["TEAM_ABBREVIATION"] == "TOT"].iloc[0]
+                parts.append(
+                    {
+                        "SEASON_ID": season,
+                        "PTS": int(row["PTS"]),
+                        "AST": int(row["AST"]),
+                        "REB": int(row["REB"]),
+                        "FG3M": int(row["FG3M"]),
+                    }
+                )
+            else:
+                sums = grp[["PTS", "AST", "REB", "FG3M"]].sum(numeric_only=True)
+                parts.append(
+                    {
+                        "SEASON_ID": season,
+                        "PTS": int(sums["PTS"]),
+                        "AST": int(sums["AST"]),
+                        "REB": int(sums["REB"]),
+                        "FG3M": int(sums["FG3M"]),
+                    }
+                )
+        season_totals = pd.DataFrame(parts)
+
+    return {
+        "PTS": int(season_totals["PTS"].sum()),
+        "AST": int(season_totals["AST"].sum()),
+        "REB": int(season_totals["REB"].sum()),
+        "FG3M": int(season_totals["FG3M"].sum()),
+    }
+
 # === Loop through players ===
 for p in top_players:
     try:
         data = playercareerstats.PlayerCareerStats(player_id=p["id"])
         df = data.get_data_frames()[0]
-        df = df[df["SEASON_ID"].str.startswith("2")]
 
-        totals = {
-            "PTS": int(df["PTS"].sum()),
-            "AST": int(df["AST"].sum()),
-            "REB": int(df["REB"].sum()),
-            "FG3M": int(df["FG3M"].sum())
-        }
+        totals = career_totals_from_df(df)
+
+        # Debug line (helps verify numbers)
+        print(f"DEBUG {p['name']}: PTS={totals['PTS']} AST={totals['AST']} REB={totals['REB']} 3PM={totals['FG3M']}")
 
         for stat, info in milestones.items():
             val = totals[stat]
             if val >= info["min"]:
                 step = info["step"]
+
+                # Next milestone (if exactly on a boundary, look to the next one)
                 next_milestone = math.ceil(val / step) * step
+                if next_milestone == val:
+                    next_milestone += step
+
                 distance = next_milestone - val
 
                 if 0 < distance <= 100:
-                    # === Check Supabase ===
-                    existing = supabase.table("milestone_watch") \
-                        .select("*") \
-                        .eq("player_name", p["name"]) \
-                        .eq("stat_type", stat) \
-                        .eq("milestone", next_milestone) \
+                    # === Check Supabase (avoid duplicates) ===
+                    existing = (
+                        supabase.table("milestone_watch")
+                        .select("*")
+                        .eq("player_name", p["name"])
+                        .eq("stat_type", stat)
+                        .eq("milestone", next_milestone)
                         .execute()
-
+                    )
                     if existing.data:
                         continue  # already posted
 
@@ -140,6 +194,7 @@ for p in top_players:
     except Exception as e:
         print(f"❌ Error for {p['name']}: {e}")
 
+    # polite delay to avoid rate limits
     sleep(1)
 
 # === Post one milestone tweet if available ===

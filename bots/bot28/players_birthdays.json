@@ -1,0 +1,4006 @@
+[
+  {
+    "id": 1630173,
+    "name": "Precious Achiuwa",
+    "birthdate": "1999-09-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png"
+  },
+  {
+    "id": 203500,
+    "name": "Steven Adams",
+    "birthdate": "1993-07-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png"
+  },
+  {
+    "id": 1628389,
+    "name": "Bam Adebayo",
+    "birthdate": "1997-07-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+  },
+  {
+    "id": 1630534,
+    "name": "Ochai Agbaji",
+    "birthdate": "2000-04-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.png"
+  },
+  {
+    "id": 1630583,
+    "name": "Santi Aldama",
+    "birthdate": "2001-01-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630583.png"
+  },
+  {
+    "id": 1641725,
+    "name": "Trey Alexander",
+    "birthdate": "2003-05-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641725.png"
+  },
+  {
+    "id": 1629638,
+    "name": "Nickeil Alexander-Walker",
+    "birthdate": "1998-09-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629638.png"
+  },
+  {
+    "id": 1628960,
+    "name": "Grayson Allen",
+    "birthdate": "1995-10-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png"
+  },
+  {
+    "id": 1628386,
+    "name": "Jarrett Allen",
+    "birthdate": "1998-04-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png"
+  },
+  {
+    "id": 1630631,
+    "name": "Jose Alvarado",
+    "birthdate": "1998-04-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png"
+  },
+  {
+    "id": 203937,
+    "name": "Kyle Anderson",
+    "birthdate": "1993-09-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203937.png"
+  },
+  {
+    "id": 203507,
+    "name": "Giannis Antetokounmpo",
+    "birthdate": "1994-12-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+  },
+  {
+    "id": 1630175,
+    "name": "Cole Anthony",
+    "birthdate": "2000-05-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png"
+  },
+  {
+    "id": 1628384,
+    "name": "OG Anunoby",
+    "birthdate": "1997-07-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png"
+  },
+  {
+    "id": 1642379,
+    "name": "Taran Armstrong",
+    "birthdate": "2002-01-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642379.png"
+  },
+  {
+    "id": 1630166,
+    "name": "Deni Avdija",
+    "birthdate": "2001-01-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png"
+  },
+  {
+    "id": 1629028,
+    "name": "Deandre Ayton",
+    "birthdate": "1998-07-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png"
+  },
+  {
+    "id": 1630542,
+    "name": "Marcus Bagley",
+    "birthdate": "2001-10-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630542.png"
+  },
+  {
+    "id": 1628963,
+    "name": "Marvin Bagley III",
+    "birthdate": "1999-03-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png"
+  },
+  {
+    "id": 1631116,
+    "name": "Patrick Baldwin Jr.",
+    "birthdate": "2002-11-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631116.png"
+  },
+  {
+    "id": 1630163,
+    "name": "LaMelo Ball",
+    "birthdate": "2001-08-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png"
+  },
+  {
+    "id": 1628366,
+    "name": "Lonzo Ball",
+    "birthdate": "1997-10-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.png"
+  },
+  {
+    "id": 1628964,
+    "name": "Mo Bamba",
+    "birthdate": "1998-05-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628964.png"
+  },
+  {
+    "id": 1631094,
+    "name": "Paolo Banchero",
+    "birthdate": "2002-11-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png"
+  },
+  {
+    "id": 1630217,
+    "name": "Desmond Bane",
+    "birthdate": "1998-06-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.png"
+  },
+  {
+    "id": 1630625,
+    "name": "Dalano Banton",
+    "birthdate": "1999-11-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630625.png"
+  },
+  {
+    "id": 1631230,
+    "name": "Dominick Barlow",
+    "birthdate": "2003-05-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631230.png"
+  },
+  {
+    "id": 203084,
+    "name": "Harrison Barnes",
+    "birthdate": "1992-05-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png"
+  },
+  {
+    "id": 1630567,
+    "name": "Scottie Barnes",
+    "birthdate": "2001-08-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png"
+  },
+  {
+    "id": 1629628,
+    "name": "RJ Barrett",
+    "birthdate": "2000-06-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png"
+  },
+  {
+    "id": 1629646,
+    "name": "Charles Bassey",
+    "birthdate": "2000-10-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png"
+  },
+  {
+    "id": 1641734,
+    "name": "Emoni Bates",
+    "birthdate": "2004-01-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641734.png"
+  },
+  {
+    "id": 1642419,
+    "name": "Jamison Battle",
+    "birthdate": "2001-05-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642419.png"
+  },
+  {
+    "id": 201587,
+    "name": "Nicolas Batum",
+    "birthdate": "1988-12-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png"
+  },
+  {
+    "id": 1641878,
+    "name": "Damion Baugh",
+    "birthdate": "2000-08-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641878.png"
+  },
+  {
+    "id": 203078,
+    "name": "Bradley Beal",
+    "birthdate": "1993-06-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png"
+  },
+  {
+    "id": 1627736,
+    "name": "Malik Beasley",
+    "birthdate": "1996-11-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627736.png"
+  },
+  {
+    "id": 1630699,
+    "name": "MarJon Beauchamp",
+    "birthdate": "2000-10-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.png"
+  },
+  {
+    "id": 1641736,
+    "name": "Reece Beekman",
+    "birthdate": "2001-10-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641736.png"
+  },
+  {
+    "id": 1630180,
+    "name": "Saddiq Bey",
+    "birthdate": "1999-04-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png"
+  },
+  {
+    "id": 1629048,
+    "name": "Goga Bitadze",
+    "birthdate": "1999-07-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.png"
+  },
+  {
+    "id": 202687,
+    "name": "Bismack Biyombo",
+    "birthdate": "1992-08-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202687.png"
+  },
+  {
+    "id": 1641710,
+    "name": "Anthony Black",
+    "birthdate": "2004-01-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641710.png"
+  },
+  {
+    "id": 203992,
+    "name": "Bogdan Bogdanovi\u0107",
+    "birthdate": "1992-08-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203992.png"
+  },
+  {
+    "id": 1629626,
+    "name": "Bol Bol",
+    "birthdate": "1999-11-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png"
+  },
+  {
+    "id": 1641737,
+    "name": "Adem Bona",
+    "birthdate": "2003-03-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641737.png"
+  },
+  {
+    "id": 1626164,
+    "name": "Devin Booker",
+    "birthdate": "1996-10-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png"
+  },
+  {
+    "id": 1630527,
+    "name": "Brandon Boston",
+    "birthdate": "2001-11-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.png"
+  },
+  {
+    "id": 1628449,
+    "name": "Chris Boucher",
+    "birthdate": "1993-01-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628449.png"
+  },
+  {
+    "id": 1631123,
+    "name": "Jamaree Bouyea",
+    "birthdate": "1999-06-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631123.png"
+  },
+  {
+    "id": 1628396,
+    "name": "Tony Bradley",
+    "birthdate": "1998-01-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628396.png"
+  },
+  {
+    "id": 1631103,
+    "name": "Malaki Branham",
+    "birthdate": "2003-05-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.png"
+  },
+  {
+    "id": 1631128,
+    "name": "Christian Braun",
+    "birthdate": "2001-04-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631128.png"
+  },
+  {
+    "id": 1641779,
+    "name": "Jalen Bridges",
+    "birthdate": "2001-05-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641779.png"
+  },
+  {
+    "id": 1628969,
+    "name": "Mikal Bridges",
+    "birthdate": "1996-08-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
+  },
+  {
+    "id": 1628970,
+    "name": "Miles Bridges",
+    "birthdate": "1998-03-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628970.png"
+  },
+  {
+    "id": 1629052,
+    "name": "Oshae Brissett",
+    "birthdate": "1998-06-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629052.png"
+  },
+  {
+    "id": 1627763,
+    "name": "Malcolm Brogdon",
+    "birthdate": "1992-12-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627763.png"
+  },
+  {
+    "id": 1628415,
+    "name": "Dillon Brooks",
+    "birthdate": "1996-01-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628415.png"
+  },
+  {
+    "id": 1631232,
+    "name": "Keion Brooks Jr.",
+    "birthdate": "2000-08-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631232.png"
+  },
+  {
+    "id": 1628971,
+    "name": "Bruce Brown",
+    "birthdate": "1996-08-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628971.png"
+  },
+  {
+    "id": 1627759,
+    "name": "Jaylen Brown",
+    "birthdate": "1996-10-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png"
+  },
+  {
+    "id": 1641738,
+    "name": "Kobe Brown",
+    "birthdate": "2000-01-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641738.png"
+  },
+  {
+    "id": 1629650,
+    "name": "Moses Brown",
+    "birthdate": "1999-10-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629650.png"
+  },
+  {
+    "id": 1628973,
+    "name": "Jalen Brunson",
+    "birthdate": "1996-08-31",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png"
+  },
+  {
+    "id": 1628418,
+    "name": "Thomas Bryant",
+    "birthdate": "1997-07-31",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png"
+  },
+  {
+    "id": 1641723,
+    "name": "Kobe Bufkin",
+    "birthdate": "2003-09-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641723.png"
+  },
+  {
+    "id": 202692,
+    "name": "Alec Burks",
+    "birthdate": "1991-07-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202692.png"
+  },
+  {
+    "id": 1630215,
+    "name": "Jared Butler",
+    "birthdate": "2000-08-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630215.png"
+  },
+  {
+    "id": 202710,
+    "name": "Jimmy Butler III",
+    "birthdate": "1989-09-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png"
+  },
+  {
+    "id": 1641824,
+    "name": "Matas Buzelis",
+    "birthdate": "2004-10-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641824.png"
+  },
+  {
+    "id": 1631288,
+    "name": "Jamal Cain",
+    "birthdate": "1999-03-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631288.png"
+  },
+  {
+    "id": 203484,
+    "name": "Kentavious Caldwell-Pope",
+    "birthdate": "1993-02-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png"
+  },
+  {
+    "id": 1641739,
+    "name": "Toumani Camara",
+    "birthdate": "2000-05-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png"
+  },
+  {
+    "id": 203991,
+    "name": "Clint Capela",
+    "birthdate": "1994-05-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203991.png"
+  },
+  {
+    "id": 1642382,
+    "name": "Branden Carlson",
+    "birthdate": "1999-06-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642382.png"
+  },
+  {
+    "id": 1642267,
+    "name": "Bub Carrington",
+    "birthdate": "2005-07-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642267.png"
+  },
+  {
+    "id": 1642269,
+    "name": "Devin Carter",
+    "birthdate": "2002-03-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642269.png"
+  },
+  {
+    "id": 1628975,
+    "name": "Jevon Carter",
+    "birthdate": "1995-09-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628975.png"
+  },
+  {
+    "id": 1628976,
+    "name": "Wendell Carter Jr.",
+    "birthdate": "1999-04-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png"
+  },
+  {
+    "id": 1630618,
+    "name": "D.J. Carton",
+    "birthdate": "2000-08-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630618.png"
+  },
+  {
+    "id": 1627936,
+    "name": "Alex Caruso",
+    "birthdate": "1994-02-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+  },
+  {
+    "id": 1642264,
+    "name": "Stephon Castle",
+    "birthdate": "2004-11-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642264.png"
+  },
+  {
+    "id": 1630658,
+    "name": "Colin Castleton",
+    "birthdate": "2000-05-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630658.png"
+  },
+  {
+    "id": 1630577,
+    "name": "Julian Champagnie",
+    "birthdate": "2001-06-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630577.png"
+  },
+  {
+    "id": 1630551,
+    "name": "Justin Champagnie",
+    "birthdate": "2001-06-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630551.png"
+  },
+  {
+    "id": 1642279,
+    "name": "Ulrich Chomche",
+    "birthdate": "2005-12-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642279.png"
+  },
+  {
+    "id": 1642353,
+    "name": "Cam Christie",
+    "birthdate": "2005-07-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642353.png"
+  },
+  {
+    "id": 1631108,
+    "name": "Max Christie",
+    "birthdate": "2003-02-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631108.png"
+  },
+  {
+    "id": 1630528,
+    "name": "Josh Christopher",
+    "birthdate": "2001-12-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.png"
+  },
+  {
+    "id": 1631321,
+    "name": "Sidy Cissoko",
+    "birthdate": "2004-04-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631321.png"
+  },
+  {
+    "id": 1641740,
+    "name": "Jaylen Clark",
+    "birthdate": "2001-10-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641740.png"
+  },
+  {
+    "id": 1629634,
+    "name": "Brandon Clarke",
+    "birthdate": "1996-09-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png"
+  },
+  {
+    "id": 203903,
+    "name": "Jordan Clarkson",
+    "birthdate": "1992-06-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203903.png"
+  },
+  {
+    "id": 1629651,
+    "name": "Nic Claxton",
+    "birthdate": "1999-04-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png"
+  },
+  {
+    "id": 1642270,
+    "name": "Donovan Clingan",
+    "birthdate": "2004-02-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642270.png"
+  },
+  {
+    "id": 1641730,
+    "name": "Noah Clowney",
+    "birthdate": "2004-07-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641730.png"
+  },
+  {
+    "id": 1629599,
+    "name": "Amir Coffey",
+    "birthdate": "1997-06-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629599.png"
+  },
+  {
+    "id": 1642268,
+    "name": "Isaiah Collier",
+    "birthdate": "2004-10-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642268.png"
+  },
+  {
+    "id": 1628381,
+    "name": "John Collins",
+    "birthdate": "1997-09-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png"
+  },
+  {
+    "id": 1641879,
+    "name": "Yuri Collins",
+    "birthdate": "2001-03-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641879.png"
+  },
+  {
+    "id": 1628380,
+    "name": "Zach Collins",
+    "birthdate": "1997-11-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.png"
+  },
+  {
+    "id": 201144,
+    "name": "Mike Conley",
+    "birthdate": "1987-10-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png"
+  },
+  {
+    "id": 1626192,
+    "name": "Pat Connaughton",
+    "birthdate": "1993-01-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626192.png"
+  },
+  {
+    "id": 1641731,
+    "name": "Bilal Coulibaly",
+    "birthdate": "2004-07-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641731.png"
+  },
+  {
+    "id": 1641741,
+    "name": "Ricky Council IV",
+    "birthdate": "2001-08-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641741.png"
+  },
+  {
+    "id": 1628470,
+    "name": "Torrey Craig",
+    "birthdate": "1990-12-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628470.png"
+  },
+  {
+    "id": 1642384,
+    "name": "Isaiah Crawford",
+    "birthdate": "2001-11-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642384.png"
+  },
+  {
+    "id": 203109,
+    "name": "Jae Crowder",
+    "birthdate": "1990-07-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203109.png"
+  },
+  {
+    "id": 1630595,
+    "name": "Cade Cunningham",
+    "birthdate": "2001-09-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png"
+  },
+  {
+    "id": 203552,
+    "name": "Seth Curry",
+    "birthdate": "1990-08-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203552.png"
+  },
+  {
+    "id": 201939,
+    "name": "Stephen Curry",
+    "birthdate": "1988-03-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png"
+  },
+  {
+    "id": 1642359,
+    "name": "Pacome Dadiet",
+    "birthdate": "2005-07-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642359.png"
+  },
+  {
+    "id": 1630700,
+    "name": "Dyson Daniels",
+    "birthdate": "2003-03-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+  },
+  {
+    "id": 1642368,
+    "name": "N'Faly Dante",
+    "birthdate": "2001-10-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642368.png"
+  },
+  {
+    "id": 203076,
+    "name": "Anthony Davis",
+    "birthdate": "1993-03-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+  },
+  {
+    "id": 1631098,
+    "name": "Johnny Davis",
+    "birthdate": "2002-02-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631098.png"
+  },
+  {
+    "id": 1631120,
+    "name": "JD Davison",
+    "birthdate": "2002-10-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.png"
+  },
+  {
+    "id": 201942,
+    "name": "DeMar DeRozan",
+    "birthdate": "1989-08-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201942.png"
+  },
+  {
+    "id": 1642484,
+    "name": "RayJ Dennis",
+    "birthdate": "2001-03-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642484.png"
+  },
+  {
+    "id": 1628978,
+    "name": "Donte DiVincenzo",
+    "birthdate": "1997-01-31",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png"
+  },
+  {
+    "id": 1631217,
+    "name": "Moussa Diabat\u00e9",
+    "birthdate": "2002-01-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631217.png"
+  },
+  {
+    "id": 1641711,
+    "name": "Gradey Dick",
+    "birthdate": "2003-11-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641711.png"
+  },
+  {
+    "id": 1631172,
+    "name": "Ousmane Dieng",
+    "birthdate": "2003-05-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.png"
+  },
+  {
+    "id": 1642265,
+    "name": "Rob Dillingham",
+    "birthdate": "2005-01-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642265.png"
+  },
+  {
+    "id": 203915,
+    "name": "Spencer Dinwiddie",
+    "birthdate": "1993-04-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png"
+  },
+  {
+    "id": 1629029,
+    "name": "Luka Don\u010di\u0107",
+    "birthdate": "1999-02-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png"
+  },
+  {
+    "id": 1629652,
+    "name": "Luguentz Dort",
+    "birthdate": "1999-04-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png"
+  },
+  {
+    "id": 1630245,
+    "name": "Ayo Dosunmu",
+    "birthdate": "2000-01-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630245.png"
+  },
+  {
+    "id": 1630288,
+    "name": "Jeff Dowtin Jr.",
+    "birthdate": "1997-05-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630288.png"
+  },
+  {
+    "id": 1628408,
+    "name": "PJ Dozier",
+    "birthdate": "1996-10-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628408.png"
+  },
+  {
+    "id": 203083,
+    "name": "Andre Drummond",
+    "birthdate": "1993-08-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203083.png"
+  },
+  {
+    "id": 1630537,
+    "name": "Chris Duarte",
+    "birthdate": "1997-06-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630537.png"
+  },
+  {
+    "id": 1642505,
+    "name": "Alex Ducas",
+    "birthdate": "2000-12-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642505.png"
+  },
+  {
+    "id": 1630561,
+    "name": "David Duke Jr.",
+    "birthdate": "1999-10-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630561.png"
+  },
+  {
+    "id": 1627739,
+    "name": "Kris Dunn",
+    "birthdate": "1994-03-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+  },
+  {
+    "id": 1642346,
+    "name": "Ryan Dunn",
+    "birthdate": "2003-01-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642346.png"
+  },
+  {
+    "id": 201142,
+    "name": "Kevin Durant",
+    "birthdate": "1988-09-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png"
+  },
+  {
+    "id": 1631105,
+    "name": "Jalen Duren",
+    "birthdate": "2003-11-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png"
+  },
+  {
+    "id": 1631106,
+    "name": "Tari Eason",
+    "birthdate": "2001-05-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631106.png"
+  },
+  {
+    "id": 1641744,
+    "name": "Zach Edey",
+    "birthdate": "2002-05-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641744.png"
+  },
+  {
+    "id": 1630162,
+    "name": "Anthony Edwards",
+    "birthdate": "2001-08-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png"
+  },
+  {
+    "id": 1642399,
+    "name": "Jesse Edwards",
+    "birthdate": "2000-03-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642399.png"
+  },
+  {
+    "id": 1642348,
+    "name": "Justin Edwards",
+    "birthdate": "2003-12-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642348.png"
+  },
+  {
+    "id": 1630556,
+    "name": "Kessler Edwards",
+    "birthdate": "2000-08-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630556.png"
+  },
+  {
+    "id": 1631165,
+    "name": "Keon Ellis",
+    "birthdate": "2000-01-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631165.png"
+  },
+  {
+    "id": 203954,
+    "name": "Joel Embiid",
+    "birthdate": "1994-03-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png"
+  },
+  {
+    "id": 1630623,
+    "name": "Tyson Etienne",
+    "birthdate": "1999-09-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630623.png"
+  },
+  {
+    "id": 1629234,
+    "name": "Drew Eubanks",
+    "birthdate": "1997-02-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629234.png"
+  },
+  {
+    "id": 1641787,
+    "name": "Tosan Evbuomwan",
+    "birthdate": "2001-02-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641787.png"
+  },
+  {
+    "id": 203957,
+    "name": "Dant\u00e9 Exum",
+    "birthdate": "1995-07-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203957.png"
+  },
+  {
+    "id": 1628981,
+    "name": "Bruno Fernando",
+    "birthdate": "1998-08-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628981.png"
+  },
+  {
+    "id": 1642271,
+    "name": "Kyle Filipowski",
+    "birthdate": "2003-11-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642271.png"
+  },
+  {
+    "id": 1627827,
+    "name": "Dorian Finney-Smith",
+    "birthdate": "1993-05-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627827.png"
+  },
+  {
+    "id": 1641745,
+    "name": "Adam Flagler",
+    "birthdate": "1999-12-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641745.png"
+  },
+  {
+    "id": 1642280,
+    "name": "Trentyn Flowers",
+    "birthdate": "2005-03-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642280.png"
+  },
+  {
+    "id": 1630201,
+    "name": "Malachi Flynn",
+    "birthdate": "1998-05-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630201.png"
+  },
+  {
+    "id": 1631323,
+    "name": "Simone Fontecchio",
+    "birthdate": "1995-12-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631323.png"
+  },
+  {
+    "id": 1628368,
+    "name": "De'Aaron Fox",
+    "birthdate": "1997-12-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png"
+  },
+  {
+    "id": 1642402,
+    "name": "Enrique Freeman",
+    "birthdate": "2000-07-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642402.png"
+  },
+  {
+    "id": 1628365,
+    "name": "Markelle Fultz",
+    "birthdate": "1998-05-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png"
+  },
+  {
+    "id": 1642277,
+    "name": "Johnny Furphy",
+    "birthdate": "2004-12-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642277.png"
+  },
+  {
+    "id": 1629655,
+    "name": "Daniel Gafford",
+    "birthdate": "1998-10-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.png"
+  },
+  {
+    "id": 1629636,
+    "name": "Darius Garland",
+    "birthdate": "2000-01-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629636.png"
+  },
+  {
+    "id": 1630585,
+    "name": "Marcus Garrett",
+    "birthdate": "1998-11-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630585.png"
+  },
+  {
+    "id": 1630568,
+    "name": "Luka Garza",
+    "birthdate": "1998-12-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630568.png"
+  },
+  {
+    "id": 1641718,
+    "name": "Keyonte George",
+    "birthdate": "2003-11-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641718.png"
+  },
+  {
+    "id": 1642273,
+    "name": "Kyshawn George",
+    "birthdate": "2003-12-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642273.png"
+  },
+  {
+    "id": 202331,
+    "name": "Paul George",
+    "birthdate": "1990-05-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png"
+  },
+  {
+    "id": 201959,
+    "name": "Taj Gibson",
+    "birthdate": "1985-06-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201959.png"
+  },
+  {
+    "id": 1630581,
+    "name": "Josh Giddey",
+    "birthdate": "2002-10-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.png"
+  },
+  {
+    "id": 1628983,
+    "name": "Shai Gilgeous-Alexander",
+    "birthdate": "1998-07-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png"
+  },
+  {
+    "id": 1630264,
+    "name": "Anthony Gill",
+    "birthdate": "1992-10-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630264.png"
+  },
+  {
+    "id": 1631221,
+    "name": "Collin Gillespie",
+    "birthdate": "1999-06-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631221.png"
+  },
+  {
+    "id": 203497,
+    "name": "Rudy Gobert",
+    "birthdate": "1992-06-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+  },
+  {
+    "id": 1630692,
+    "name": "Jordan Goodwin",
+    "birthdate": "1998-10-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630692.png"
+  },
+  {
+    "id": 203932,
+    "name": "Aaron Gordon",
+    "birthdate": "1995-09-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png"
+  },
+  {
+    "id": 201569,
+    "name": "Eric Gordon",
+    "birthdate": "1988-12-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png"
+  },
+  {
+    "id": 1641789,
+    "name": "Jazian Gortman",
+    "birthdate": "2003-03-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641789.png"
+  },
+  {
+    "id": 203924,
+    "name": "Jerami Grant",
+    "birthdate": "1994-03-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203924.png"
+  },
+  {
+    "id": 1631260,
+    "name": "AJ Green",
+    "birthdate": "1999-09-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631260.png"
+  },
+  {
+    "id": 203110,
+    "name": "Draymond Green",
+    "birthdate": "1990-03-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+  },
+  {
+    "id": 1630224,
+    "name": "Jalen Green",
+    "birthdate": "2002-02-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png"
+  },
+  {
+    "id": 1629750,
+    "name": "Javonte Green",
+    "birthdate": "1993-07-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629750.png"
+  },
+  {
+    "id": 201145,
+    "name": "Jeff Green",
+    "birthdate": "1986-08-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png"
+  },
+  {
+    "id": 1630182,
+    "name": "Josh Green",
+    "birthdate": "2000-11-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.png"
+  },
+  {
+    "id": 1629656,
+    "name": "Quentin Grimes",
+    "birthdate": "2000-05-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629656.png"
+  },
+  {
+    "id": 1631243,
+    "name": "Mouhamed Gueye",
+    "birthdate": "2002-11-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631243.png"
+  },
+  {
+    "id": 1629060,
+    "name": "Rui Hachimura",
+    "birthdate": "1998-02-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png"
+  },
+  {
+    "id": 1630169,
+    "name": "Tyrese Haliburton",
+    "birthdate": "2000-02-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png"
+  },
+  {
+    "id": 1641790,
+    "name": "PJ Hall",
+    "birthdate": "2002-02-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641790.png"
+  },
+  {
+    "id": 203501,
+    "name": "Tim Hardaway Jr.",
+    "birthdate": "1992-03-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203501.png"
+  },
+  {
+    "id": 201935,
+    "name": "James Harden",
+    "birthdate": "1989-08-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png"
+  },
+  {
+    "id": 1630702,
+    "name": "Jaden Hardy",
+    "birthdate": "2002-07-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630702.png"
+  },
+  {
+    "id": 1641989,
+    "name": "Elijah Harkless",
+    "birthdate": "2000-02-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641989.png"
+  },
+  {
+    "id": 1631199,
+    "name": "Ron Harper Jr.",
+    "birthdate": "2000-04-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631199.png"
+  },
+  {
+    "id": 203914,
+    "name": "Gary Harris",
+    "birthdate": "1994-09-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203914.png"
+  },
+  {
+    "id": 202699,
+    "name": "Tobias Harris",
+    "birthdate": "1992-07-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202699.png"
+  },
+  {
+    "id": 1628404,
+    "name": "Josh Hart",
+    "birthdate": "1995-03-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png"
+  },
+  {
+    "id": 1628392,
+    "name": "Isaiah Hartenstein",
+    "birthdate": "1998-05-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png"
+  },
+  {
+    "id": 1630573,
+    "name": "Sam Hauser",
+    "birthdate": "1997-12-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630573.png"
+  },
+  {
+    "id": 1641722,
+    "name": "Jordan Hawkins",
+    "birthdate": "2002-04-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641722.png"
+  },
+  {
+    "id": 1629637,
+    "name": "Jaxson Hayes",
+    "birthdate": "2000-05-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629637.png"
+  },
+  {
+    "id": 1630165,
+    "name": "Killian Hayes",
+    "birthdate": "2001-07-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630165.png"
+  },
+  {
+    "id": 1630703,
+    "name": "Scoot Henderson",
+    "birthdate": "2004-02-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630703.png"
+  },
+  {
+    "id": 1641707,
+    "name": "Taylor Hendricks",
+    "birthdate": "2003-11-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641707.png"
+  },
+  {
+    "id": 1629639,
+    "name": "Tyler Herro",
+    "birthdate": "2000-01-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629639.png"
+  },
+  {
+    "id": 1627741,
+    "name": "Buddy Hield",
+    "birthdate": "1992-12-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627741.png"
+  },
+  {
+    "id": 1629312,
+    "name": "Haywood Highsmith",
+    "birthdate": "1996-12-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629312.png"
+  },
+  {
+    "id": 1628988,
+    "name": "Aaron Holiday",
+    "birthdate": "1996-09-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628988.png"
+  },
+  {
+    "id": 201950,
+    "name": "Jrue Holiday",
+    "birthdate": "1990-06-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+  },
+  {
+    "id": 1641842,
+    "name": "Ronald Holland II",
+    "birthdate": "2005-07-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641842.png"
+  },
+  {
+    "id": 1626158,
+    "name": "Richaun Holmes",
+    "birthdate": "1993-10-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626158.png"
+  },
+  {
+    "id": 1641747,
+    "name": "DaRon Holmes II",
+    "birthdate": "2002-08-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641747.png"
+  },
+  {
+    "id": 1631096,
+    "name": "Chet Holmgren",
+    "birthdate": "2002-05-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png"
+  },
+  {
+    "id": 1641720,
+    "name": "Jalen Hood-Schifino",
+    "birthdate": "2003-06-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641720.png"
+  },
+  {
+    "id": 201143,
+    "name": "Al Horford",
+    "birthdate": "1986-06-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png"
+  },
+  {
+    "id": 1629659,
+    "name": "Talen Horton-Tucker",
+    "birthdate": "2000-11-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629659.png"
+  },
+  {
+    "id": 1631216,
+    "name": "Caleb Houstan",
+    "birthdate": "2003-01-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631216.png"
+  },
+  {
+    "id": 1641724,
+    "name": "Jett Howard",
+    "birthdate": "2003-09-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641724.png"
+  },
+  {
+    "id": 1628989,
+    "name": "Kevin Huerter",
+    "birthdate": "1998-08-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628989.png"
+  },
+  {
+    "id": 1630643,
+    "name": "Jay Huff",
+    "birthdate": "1997-08-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630643.png"
+  },
+  {
+    "id": 1630574,
+    "name": "Ariel Hukporti",
+    "birthdate": "2002-04-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630574.png"
+  },
+  {
+    "id": 1629631,
+    "name": "De'Andre Hunter",
+    "birthdate": "1997-12-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.png"
+  },
+  {
+    "id": 1630538,
+    "name": "Bones Hyland",
+    "birthdate": "2000-09-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.png"
+  },
+  {
+    "id": 1642345,
+    "name": "Oso Ighodaro",
+    "birthdate": "2002-07-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642345.png"
+  },
+  {
+    "id": 204060,
+    "name": "Joe Ingles",
+    "birthdate": "1987-10-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/204060.png"
+  },
+  {
+    "id": 1627742,
+    "name": "Brandon Ingram",
+    "birthdate": "1997-09-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627742.png"
+  },
+  {
+    "id": 1631127,
+    "name": "Harrison Ingram",
+    "birthdate": "2002-11-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631127.png"
+  },
+  {
+    "id": 202681,
+    "name": "Kyrie Irving",
+    "birthdate": "1992-03-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png"
+  },
+  {
+    "id": 1628371,
+    "name": "Jonathan Isaac",
+    "birthdate": "1997-10-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png"
+  },
+  {
+    "id": 1631093,
+    "name": "Jaden Ivey",
+    "birthdate": "2002-02-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631093.png"
+  },
+  {
+    "id": 1641713,
+    "name": "GG Jackson",
+    "birthdate": "2004-12-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641713.png"
+  },
+  {
+    "id": 1630543,
+    "name": "Isaiah Jackson",
+    "birthdate": "2002-01-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630543.png"
+  },
+  {
+    "id": 1631245,
+    "name": "Quenton Jackson",
+    "birthdate": "1998-09-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631245.png"
+  },
+  {
+    "id": 202704,
+    "name": "Reggie Jackson",
+    "birthdate": "1990-04-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202704.png"
+  },
+  {
+    "id": 1641748,
+    "name": "Andre Jackson Jr.",
+    "birthdate": "2001-11-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641748.png"
+  },
+  {
+    "id": 1628991,
+    "name": "Jaren Jackson Jr.",
+    "birthdate": "1999-09-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png"
+  },
+  {
+    "id": 1631218,
+    "name": "Trayce Jackson-Davis",
+    "birthdate": "2000-02-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631218.png"
+  },
+  {
+    "id": 1642355,
+    "name": "Bronny James",
+    "birthdate": "2004-10-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642355.png"
+  },
+  {
+    "id": 2544,
+    "name": "LeBron James",
+    "birthdate": "1984-12-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png"
+  },
+  {
+    "id": 1631170,
+    "name": "Jaime Jaquez Jr.",
+    "birthdate": "2001-02-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631170.png"
+  },
+  {
+    "id": 1629610,
+    "name": "DaQuan Jeffries",
+    "birthdate": "1997-08-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629610.png"
+  },
+  {
+    "id": 1641998,
+    "name": "Trey Jemison III",
+    "birthdate": "1999-11-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641998.png"
+  },
+  {
+    "id": 1642450,
+    "name": "Daniss Jenkins",
+    "birthdate": "2001-08-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642450.png"
+  },
+  {
+    "id": 1629660,
+    "name": "Ty Jerome",
+    "birthdate": "1997-07-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.png"
+  },
+  {
+    "id": 1630198,
+    "name": "Isaiah Joe",
+    "birthdate": "1999-07-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630198.png"
+  },
+  {
+    "id": 1642358,
+    "name": "AJ Johnson",
+    "birthdate": "2004-12-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642358.png"
+  },
+  {
+    "id": 1629661,
+    "name": "Cameron Johnson",
+    "birthdate": "1996-03-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.png"
+  },
+  {
+    "id": 1630552,
+    "name": "Jalen Johnson",
+    "birthdate": "2001-12-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630552.png"
+  },
+  {
+    "id": 201949,
+    "name": "James Johnson",
+    "birthdate": "1987-02-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201949.png"
+  },
+  {
+    "id": 1629640,
+    "name": "Keldon Johnson",
+    "birthdate": "1999-10-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.png"
+  },
+  {
+    "id": 1630553,
+    "name": "Keon Johnson",
+    "birthdate": "2002-03-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.png"
+  },
+  {
+    "id": 1642352,
+    "name": "Keshad Johnson",
+    "birthdate": "2001-06-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642352.png"
+  },
+  {
+    "id": 203999,
+    "name": "Nikola Joki\u0107",
+    "birthdate": "1995-02-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
+  },
+  {
+    "id": 1641732,
+    "name": "Colby Jones",
+    "birthdate": "2002-05-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641732.png"
+  },
+  {
+    "id": 1641794,
+    "name": "Dillon Jones",
+    "birthdate": "2001-10-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641794.png"
+  },
+  {
+    "id": 1630529,
+    "name": "Herbert Jones",
+    "birthdate": "1998-10-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
+  },
+  {
+    "id": 1642403,
+    "name": "Isaac Jones",
+    "birthdate": "2000-07-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642403.png"
+  },
+  {
+    "id": 1630539,
+    "name": "Kai Jones",
+    "birthdate": "2001-01-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630539.png"
+  },
+  {
+    "id": 1630222,
+    "name": "Mason Jones",
+    "birthdate": "1998-07-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630222.png"
+  },
+  {
+    "id": 1642461,
+    "name": "Spencer Jones",
+    "birthdate": "2001-06-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642461.png"
+  },
+  {
+    "id": 1630200,
+    "name": "Tre Jones",
+    "birthdate": "2000-01-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630200.png"
+  },
+  {
+    "id": 1626145,
+    "name": "Tyus Jones",
+    "birthdate": "1996-05-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626145.png"
+  },
+  {
+    "id": 1627884,
+    "name": "Derrick Jones Jr.",
+    "birthdate": "1997-02-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627884.png"
+  },
+  {
+    "id": 201599,
+    "name": "DeAndre Jordan",
+    "birthdate": "1988-07-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201599.png"
+  },
+  {
+    "id": 202709,
+    "name": "Cory Joseph",
+    "birthdate": "1991-08-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202709.png"
+  },
+  {
+    "id": 1631107,
+    "name": "Nikola Jovi\u0107",
+    "birthdate": "2003-06-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631107.png"
+  },
+  {
+    "id": 1630548,
+    "name": "Johnny Juzang",
+    "birthdate": "2001-03-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630548.png"
+  },
+  {
+    "id": 1642530,
+    "name": "Yuki Kawamura",
+    "birthdate": "2001-05-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642530.png"
+  },
+  {
+    "id": 1630283,
+    "name": "Kylor Kelley",
+    "birthdate": "1997-08-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630283.png"
+  },
+  {
+    "id": 1628379,
+    "name": "Luke Kennard",
+    "birthdate": "1996-06-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628379.png"
+  },
+  {
+    "id": 1631117,
+    "name": "Walker Kessler",
+    "birthdate": "2001-07-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png"
+  },
+  {
+    "id": 1630296,
+    "name": "Braxton Key",
+    "birthdate": "1997-02-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630296.png"
+  },
+  {
+    "id": 1630557,
+    "name": "Corey Kispert",
+    "birthdate": "1999-03-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630557.png"
+  },
+  {
+    "id": 1628467,
+    "name": "Maxi Kleber",
+    "birthdate": "1992-01-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628467.png"
+  },
+  {
+    "id": 1641752,
+    "name": "Bobi Klintman",
+    "birthdate": "2003-03-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641752.png"
+  },
+  {
+    "id": 1642261,
+    "name": "Dalton Knecht",
+    "birthdate": "2001-04-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642261.png"
+  },
+  {
+    "id": 1628995,
+    "name": "Kevin Knox II",
+    "birthdate": "1999-08-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png"
+  },
+  {
+    "id": 1642278,
+    "name": "Tyler Kolek",
+    "birthdate": "2001-03-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642278.png"
+  },
+  {
+    "id": 1631132,
+    "name": "Christian Koloko",
+    "birthdate": "2000-06-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631132.png"
+  },
+  {
+    "id": 1629723,
+    "name": "John Konchar",
+    "birthdate": "1996-03-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629723.png"
+  },
+  {
+    "id": 1628436,
+    "name": "Luke Kornet",
+    "birthdate": "1995-07-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628436.png"
+  },
+  {
+    "id": 1630249,
+    "name": "V\u00edt Krej\u010d\u00ed",
+    "birthdate": "2000-06-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630249.png"
+  },
+  {
+    "id": 1630228,
+    "name": "Jonathan Kuminga",
+    "birthdate": "2002-10-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630228.png"
+  },
+  {
+    "id": 1628398,
+    "name": "Kyle Kuzma",
+    "birthdate": "1995-07-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png"
+  },
+  {
+    "id": 1631222,
+    "name": "Jake LaRavia",
+    "birthdate": "2001-11-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631222.png"
+  },
+  {
+    "id": 203897,
+    "name": "Zach LaVine",
+    "birthdate": "1995-03-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png"
+  },
+  {
+    "id": 1627746,
+    "name": "Skal Labissiere",
+    "birthdate": "1996-03-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627746.png"
+  },
+  {
+    "id": 1629111,
+    "name": "Jock Landale",
+    "birthdate": "1995-10-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629111.png"
+  },
+  {
+    "id": 1641796,
+    "name": "Pelle Larsson",
+    "birthdate": "2001-02-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641796.png"
+  },
+  {
+    "id": 1630639,
+    "name": "A.J. Lawson",
+    "birthdate": "2000-07-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630639.png"
+  },
+  {
+    "id": 1627747,
+    "name": "Caris LeVert",
+    "birthdate": "1994-08-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627747.png"
+  },
+  {
+    "id": 1627814,
+    "name": "Damion Lee",
+    "birthdate": "1992-10-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627814.png"
+  },
+  {
+    "id": 203458,
+    "name": "Alex Len",
+    "birthdate": "1993-06-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203458.png"
+  },
+  {
+    "id": 202695,
+    "name": "Kawhi Leonard",
+    "birthdate": "1991-06-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+  },
+  {
+    "id": 1642502,
+    "name": "Malevy Leons",
+    "birthdate": "1999-09-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642502.png"
+  },
+  {
+    "id": 1641721,
+    "name": "Maxwell Lewis",
+    "birthdate": "2002-07-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641721.png"
+  },
+  {
+    "id": 1630604,
+    "name": "E.J. Liddell",
+    "birthdate": "2000-12-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630604.png"
+  },
+  {
+    "id": 203081,
+    "name": "Damian Lillard",
+    "birthdate": "1990-07-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png"
+  },
+  {
+    "id": 1641726,
+    "name": "Dereck Lively II",
+    "birthdate": "2004-02-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641726.png"
+  },
+  {
+    "id": 1641753,
+    "name": "Chris Livingston",
+    "birthdate": "2003-10-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641753.png"
+  },
+  {
+    "id": 1626172,
+    "name": "Kevon Looney",
+    "birthdate": "1996-02-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626172.png"
+  },
+  {
+    "id": 201572,
+    "name": "Brook Lopez",
+    "birthdate": "1988-04-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png"
+  },
+  {
+    "id": 201567,
+    "name": "Kevin Love",
+    "birthdate": "1988-09-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201567.png"
+  },
+  {
+    "id": 200768,
+    "name": "Kyle Lowry",
+    "birthdate": "1986-03-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png"
+  },
+  {
+    "id": 1641754,
+    "name": "Seth Lundy",
+    "birthdate": "2000-04-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641754.png"
+  },
+  {
+    "id": 1626168,
+    "name": "Trey Lyles",
+    "birthdate": "1995-11-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626168.png"
+  },
+  {
+    "id": 1630572,
+    "name": "Sandro Mamukelashvili",
+    "birthdate": "1999-05-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630572.png"
+  },
+  {
+    "id": 1629611,
+    "name": "Terance Mann",
+    "birthdate": "1996-10-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629611.png"
+  },
+  {
+    "id": 1630544,
+    "name": "Tre Mann",
+    "birthdate": "2001-02-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png"
+  },
+  {
+    "id": 1628374,
+    "name": "Lauri Markkanen",
+    "birthdate": "1997-05-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png"
+  },
+  {
+    "id": 1630230,
+    "name": "Naji Marshall",
+    "birthdate": "1998-01-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630230.png"
+  },
+  {
+    "id": 1628997,
+    "name": "Caleb Martin",
+    "birthdate": "1995-09-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628997.png"
+  },
+  {
+    "id": 1628998,
+    "name": "Cody Martin",
+    "birthdate": "1995-09-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.png"
+  },
+  {
+    "id": 1641798,
+    "name": "Jaylen Martin",
+    "birthdate": "2004-01-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641798.png"
+  },
+  {
+    "id": 1630231,
+    "name": "KJ Martin",
+    "birthdate": "2001-01-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png"
+  },
+  {
+    "id": 1631213,
+    "name": "Tyrese Martin",
+    "birthdate": "1999-03-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631213.png"
+  },
+  {
+    "id": 1629726,
+    "name": "Garrison Mathews",
+    "birthdate": "1996-10-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629726.png"
+  },
+  {
+    "id": 1631097,
+    "name": "Bennedict Mathurin",
+    "birthdate": "2002-06-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631097.png"
+  },
+  {
+    "id": 1631255,
+    "name": "Karlo Matkovi\u0107",
+    "birthdate": "2001-03-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631255.png"
+  },
+  {
+    "id": 1630178,
+    "name": "Tyrese Maxey",
+    "birthdate": "2000-11-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png"
+  },
+  {
+    "id": 1630540,
+    "name": "Miles McBride",
+    "birthdate": "2000-09-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.png"
+  },
+  {
+    "id": 1642272,
+    "name": "Jared McCain",
+    "birthdate": "2004-02-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642272.png"
+  },
+  {
+    "id": 1630644,
+    "name": "Mac McClung",
+    "birthdate": "1999-01-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630644.png"
+  },
+  {
+    "id": 203468,
+    "name": "CJ McCollum",
+    "birthdate": "1991-09-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203468.png"
+  },
+  {
+    "id": 204456,
+    "name": "T.J. McConnell",
+    "birthdate": "1992-03-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/204456.png"
+  },
+  {
+    "id": 1641755,
+    "name": "Kevin McCullar Jr.",
+    "birthdate": "2001-03-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641755.png"
+  },
+  {
+    "id": 1630183,
+    "name": "Jaden McDaniels",
+    "birthdate": "2000-09-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+  },
+  {
+    "id": 1629667,
+    "name": "Jalen McDaniels",
+    "birthdate": "1998-01-31",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629667.png"
+  },
+  {
+    "id": 203926,
+    "name": "Doug McDermott",
+    "birthdate": "1992-01-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203926.png"
+  },
+  {
+    "id": 1631121,
+    "name": "Bryce McGowens",
+    "birthdate": "2002-11-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631121.png"
+  },
+  {
+    "id": 1629162,
+    "name": "Jordan McLaughlin",
+    "birthdate": "1996-04-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629162.png"
+  },
+  {
+    "id": 1629098,
+    "name": "Jack McVeigh",
+    "birthdate": "1996-06-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629098.png"
+  },
+  {
+    "id": 1629001,
+    "name": "De'Anthony Melton",
+    "birthdate": "1998-05-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.png"
+  },
+  {
+    "id": 1630241,
+    "name": "Sam Merrill",
+    "birthdate": "1996-05-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630241.png"
+  },
+  {
+    "id": 203995,
+    "name": "Vasilije Mici\u0107",
+    "birthdate": "1994-01-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203995.png"
+  },
+  {
+    "id": 203114,
+    "name": "Khris Middleton",
+    "birthdate": "1991-08-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203114.png"
+  },
+  {
+    "id": 1641706,
+    "name": "Brandon Miller",
+    "birthdate": "2002-11-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641706.png"
+  },
+  {
+    "id": 1641801,
+    "name": "Emanuel Miller",
+    "birthdate": "2000-06-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641801.png"
+  },
+  {
+    "id": 1641757,
+    "name": "Jordan Miller",
+    "birthdate": "2000-01-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641757.png"
+  },
+  {
+    "id": 1631159,
+    "name": "Leonard Miller",
+    "birthdate": "2003-11-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631159.png"
+  },
+  {
+    "id": 201988,
+    "name": "Patty Mills",
+    "birthdate": "1988-08-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201988.png"
+  },
+  {
+    "id": 1629003,
+    "name": "Shake Milton",
+    "birthdate": "1996-09-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629003.png"
+  },
+  {
+    "id": 1631303,
+    "name": "Justin Minaya",
+    "birthdate": "1999-03-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631303.png"
+  },
+  {
+    "id": 1642434,
+    "name": "Riley Minix",
+    "birthdate": "2000-09-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642434.png"
+  },
+  {
+    "id": 1631169,
+    "name": "Josh Minott",
+    "birthdate": "2002-11-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631169.png"
+  },
+  {
+    "id": 1642274,
+    "name": "Yves Missi",
+    "birthdate": "2004-05-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642274.png"
+  },
+  {
+    "id": 1642349,
+    "name": "Ajay Mitchell",
+    "birthdate": "2002-06-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642349.png"
+  },
+  {
+    "id": 1630558,
+    "name": "Davion Mitchell",
+    "birthdate": "1998-09-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.png"
+  },
+  {
+    "id": 1628378,
+    "name": "Donovan Mitchell",
+    "birthdate": "1996-09-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png"
+  },
+  {
+    "id": 1630596,
+    "name": "Evan Mobley",
+    "birthdate": "2001-06-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png"
+  },
+  {
+    "id": 1642367,
+    "name": "Jonathan Mogbo",
+    "birthdate": "2001-10-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642367.png"
+  },
+  {
+    "id": 1628370,
+    "name": "Malik Monk",
+    "birthdate": "1998-02-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628370.png"
+  },
+  {
+    "id": 1630541,
+    "name": "Moses Moody",
+    "birthdate": "2002-05-31",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630541.png"
+  },
+  {
+    "id": 1631386,
+    "name": "Taz\u00e9 Moore",
+    "birthdate": "1998-06-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631386.png"
+  },
+  {
+    "id": 1631111,
+    "name": "Wendell Moore Jr.",
+    "birthdate": "2001-09-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631111.png"
+  },
+  {
+    "id": 1629630,
+    "name": "Ja Morant",
+    "birthdate": "1999-08-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png"
+  },
+  {
+    "id": 202693,
+    "name": "Markieff Morris",
+    "birthdate": "1989-09-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202693.png"
+  },
+  {
+    "id": 1628420,
+    "name": "Mont\u00e9 Morris",
+    "birthdate": "1995-06-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.png"
+  },
+  {
+    "id": 1630530,
+    "name": "Trey Murphy III",
+    "birthdate": "2000-06-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630530.png"
+  },
+  {
+    "id": 1627749,
+    "name": "Dejounte Murray",
+    "birthdate": "1996-09-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627749.png"
+  },
+  {
+    "id": 1627750,
+    "name": "Jamal Murray",
+    "birthdate": "1997-02-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png"
+  },
+  {
+    "id": 1631099,
+    "name": "Keegan Murray",
+    "birthdate": "2000-08-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png"
+  },
+  {
+    "id": 1631200,
+    "name": "Kris Murray",
+    "birthdate": "2000-08-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631200.png"
+  },
+  {
+    "id": 1629004,
+    "name": "Svi Mykhailiuk",
+    "birthdate": "1997-06-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.png"
+  },
+  {
+    "id": 1631250,
+    "name": "Pete Nance",
+    "birthdate": "2000-02-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631250.png"
+  },
+  {
+    "id": 1626204,
+    "name": "Larry Nance Jr.",
+    "birthdate": "1993-01-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626204.png"
+  },
+  {
+    "id": 1629614,
+    "name": "Andrew Nembhard",
+    "birthdate": "2000-01-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.png"
+  },
+  {
+    "id": 1630174,
+    "name": "Aaron Nesmith",
+    "birthdate": "1999-10-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630174.png"
+  },
+  {
+    "id": 1641803,
+    "name": "Tristen Newton",
+    "birthdate": "2001-04-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641803.png"
+  },
+  {
+    "id": 1627777,
+    "name": "Georges Niang",
+    "birthdate": "1993-06-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627777.png"
+  },
+  {
+    "id": 1630227,
+    "name": "Daishen Nix",
+    "birthdate": "2002-02-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630227.png"
+  },
+  {
+    "id": 1630192,
+    "name": "Zeke Nnaji",
+    "birthdate": "2001-01-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png"
+  },
+  {
+    "id": 1641936,
+    "name": "Miles Norris",
+    "birthdate": "2000-04-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641936.png"
+  },
+  {
+    "id": 1629669,
+    "name": "Jaylen Nowell",
+    "birthdate": "1999-07-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629669.png"
+  },
+  {
+    "id": 203994,
+    "name": "Jusuf Nurki\u0107",
+    "birthdate": "1994-08-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203994.png"
+  },
+  {
+    "id": 1626220,
+    "name": "Royce O'Neale",
+    "birthdate": "1993-06-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626220.png"
+  },
+  {
+    "id": 1626143,
+    "name": "Jahlil Okafor",
+    "birthdate": "1995-12-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626143.png"
+  },
+  {
+    "id": 1629643,
+    "name": "Chuma Okeke",
+    "birthdate": "1998-08-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.png"
+  },
+  {
+    "id": 1629006,
+    "name": "Josh Okogie",
+    "birthdate": "1998-09-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png"
+  },
+  {
+    "id": 1630168,
+    "name": "Onyeka Okongwu",
+    "birthdate": "2000-12-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630168.png"
+  },
+  {
+    "id": 1630171,
+    "name": "Isaac Okoro",
+    "birthdate": "2001-01-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png"
+  },
+  {
+    "id": 1642439,
+    "name": "Quincy Olivari",
+    "birthdate": "2001-05-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642439.png"
+  },
+  {
+    "id": 203482,
+    "name": "Kelly Olynyk",
+    "birthdate": "1991-04-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203482.png"
+  },
+  {
+    "id": 1626162,
+    "name": "Kelly Oubre Jr.",
+    "birthdate": "1995-12-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626162.png"
+  },
+  {
+    "id": 101108,
+    "name": "Chris Paul",
+    "birthdate": "1985-05-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png"
+  },
+  {
+    "id": 1626166,
+    "name": "Cameron Payne",
+    "birthdate": "1994-08-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626166.png"
+  },
+  {
+    "id": 203901,
+    "name": "Elfrid Payton",
+    "birthdate": "1994-02-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203901.png"
+  },
+  {
+    "id": 1627780,
+    "name": "Gary Payton II",
+    "birthdate": "1992-12-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png"
+  },
+  {
+    "id": 1641809,
+    "name": "Drew Peterson",
+    "birthdate": "1999-11-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641809.png"
+  },
+  {
+    "id": 1641763,
+    "name": "Julian Phillips",
+    "birthdate": "2003-11-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641763.png"
+  },
+  {
+    "id": 1629618,
+    "name": "Jalen Pickett",
+    "birthdate": "1999-10-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629618.png"
+  },
+  {
+    "id": 1630590,
+    "name": "Scotty Pippen Jr.",
+    "birthdate": "2000-11-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630590.png"
+  },
+  {
+    "id": 1631342,
+    "name": "Daeqwon Plowden",
+    "birthdate": "1998-08-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631342.png"
+  },
+  {
+    "id": 203486,
+    "name": "Mason Plumlee",
+    "birthdate": "1990-03-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203486.png"
+  },
+  {
+    "id": 1641764,
+    "name": "Brandin Podziemski",
+    "birthdate": "2003-02-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641764.png"
+  },
+  {
+    "id": 1627751,
+    "name": "Jakob Poeltl",
+    "birthdate": "1995-10-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627751.png"
+  },
+  {
+    "id": 1629673,
+    "name": "Jordan Poole",
+    "birthdate": "1999-06-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png"
+  },
+  {
+    "id": 1641854,
+    "name": "Craig Porter Jr.",
+    "birthdate": "2000-02-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641854.png"
+  },
+  {
+    "id": 1629645,
+    "name": "Kevin Porter Jr.",
+    "birthdate": "2000-05-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png"
+  },
+  {
+    "id": 1629008,
+    "name": "Michael Porter Jr.",
+    "birthdate": "1998-06-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png"
+  },
+  {
+    "id": 1626171,
+    "name": "Bobby Portis",
+    "birthdate": "1995-02-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626171.png"
+  },
+  {
+    "id": 204001,
+    "name": "Kristaps Porzi\u0146\u0123is",
+    "birthdate": "1995-08-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/204001.png"
+  },
+  {
+    "id": 1642366,
+    "name": "Quinten Post",
+    "birthdate": "2000-03-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642366.png"
+  },
+  {
+    "id": 1630695,
+    "name": "Micah Potter",
+    "birthdate": "1998-04-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630695.png"
+  },
+  {
+    "id": 203939,
+    "name": "Dwight Powell",
+    "birthdate": "1991-07-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203939.png"
+  },
+  {
+    "id": 1626181,
+    "name": "Norman Powell",
+    "birthdate": "1993-05-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626181.png"
+  },
+  {
+    "id": 1627752,
+    "name": "Taurean Prince",
+    "birthdate": "1994-03-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627752.png"
+  },
+  {
+    "id": 1630202,
+    "name": "Payton Pritchard",
+    "birthdate": "1998-01-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png"
+  },
+  {
+    "id": 1641765,
+    "name": "Olivier-Maxence Prosper",
+    "birthdate": "2002-07-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641765.png"
+  },
+  {
+    "id": 1642389,
+    "name": "Zyon Pullin",
+    "birthdate": "2001-03-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642389.png"
+  },
+  {
+    "id": 1630243,
+    "name": "Trevelin Queen",
+    "birthdate": "1997-02-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630243.png"
+  },
+  {
+    "id": 1629674,
+    "name": "Neemias Queta",
+    "birthdate": "1999-07-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png"
+  },
+  {
+    "id": 1630193,
+    "name": "Immanuel Quickley",
+    "birthdate": "1999-06-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png"
+  },
+  {
+    "id": 1631311,
+    "name": "Lester Quinones",
+    "birthdate": "2000-11-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631311.png"
+  },
+  {
+    "id": 203944,
+    "name": "Julius Randle",
+    "birthdate": "1994-11-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png"
+  },
+  {
+    "id": 1641871,
+    "name": "Duop Reath",
+    "birthdate": "1996-06-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641871.png"
+  },
+  {
+    "id": 1630559,
+    "name": "Austin Reaves",
+    "birthdate": "1998-05-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630559.png"
+  },
+  {
+    "id": 1629629,
+    "name": "Cam Reddish",
+    "birthdate": "1999-09-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629629.png"
+  },
+  {
+    "id": 1630194,
+    "name": "Paul Reed",
+    "birthdate": "1999-06-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630194.png"
+  },
+  {
+    "id": 1642024,
+    "name": "Alex Reese",
+    "birthdate": "1999-05-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642024.png"
+  },
+  {
+    "id": 1641810,
+    "name": "Antonio Reeves",
+    "birthdate": "2000-11-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641810.png"
+  },
+  {
+    "id": 1629675,
+    "name": "Naz Reid",
+    "birthdate": "1999-08-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629675.png"
+  },
+  {
+    "id": 1631197,
+    "name": "Jared Rhoden",
+    "birthdate": "1999-08-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631197.png"
+  },
+  {
+    "id": 1630208,
+    "name": "Nick Richards",
+    "birthdate": "1997-11-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630208.png"
+  },
+  {
+    "id": 1626196,
+    "name": "Josh Richardson",
+    "birthdate": "1993-09-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626196.png"
+  },
+  {
+    "id": 1642258,
+    "name": "Zaccharie Risacher",
+    "birthdate": "2005-04-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642258.png"
+  },
+  {
+    "id": 1641857,
+    "name": "Liam Robbins",
+    "birthdate": "1999-07-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641857.png"
+  },
+  {
+    "id": 1629130,
+    "name": "Duncan Robinson",
+    "birthdate": "1994-04-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629130.png"
+  },
+  {
+    "id": 1629011,
+    "name": "Mitchell Robinson",
+    "birthdate": "1998-04-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png"
+  },
+  {
+    "id": 1631115,
+    "name": "Orlando Robinson",
+    "birthdate": "2000-07-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631115.png"
+  },
+  {
+    "id": 1630526,
+    "name": "Jeremiah Robinson-Earl",
+    "birthdate": "2000-11-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630526.png"
+  },
+  {
+    "id": 1631223,
+    "name": "David Roddy",
+    "birthdate": "2001-03-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631223.png"
+  },
+  {
+    "id": 1631157,
+    "name": "Ryan Rollins",
+    "birthdate": "2002-07-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631157.png"
+  },
+  {
+    "id": 1642050,
+    "name": "Jackson Rowe",
+    "birthdate": "1997-01-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642050.png"
+  },
+  {
+    "id": 1626179,
+    "name": "Terry Rozier",
+    "birthdate": "1994-03-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626179.png"
+  },
+  {
+    "id": 1641712,
+    "name": "Rayan Rupert",
+    "birthdate": "2004-05-31",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641712.png"
+  },
+  {
+    "id": 1626156,
+    "name": "D'Angelo Russell",
+    "birthdate": "1996-02-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626156.png"
+  },
+  {
+    "id": 1630346,
+    "name": "Matt Ryan",
+    "birthdate": "1997-04-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630346.png"
+  },
+  {
+    "id": 1627734,
+    "name": "Domantas Sabonis",
+    "birthdate": "1996-05-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png"
+  },
+  {
+    "id": 1642275,
+    "name": "Tidjane Sala\u00fcn",
+    "birthdate": "2005-08-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642275.png"
+  },
+  {
+    "id": 1641766,
+    "name": "Adama Sanogo",
+    "birthdate": "2002-02-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641766.png"
+  },
+  {
+    "id": 1630611,
+    "name": "Gui Santos",
+    "birthdate": "2002-06-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630611.png"
+  },
+  {
+    "id": 1642259,
+    "name": "Alex Sarr",
+    "birthdate": "2005-04-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642259.png"
+  },
+  {
+    "id": 1631204,
+    "name": "Marcus Sasser",
+    "birthdate": "2000-09-21",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631204.png"
+  },
+  {
+    "id": 1631248,
+    "name": "Baylor Scheierman",
+    "birthdate": "2000-09-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631248.png"
+  },
+  {
+    "id": 203471,
+    "name": "Dennis Schr\u00f6der",
+    "birthdate": "1993-09-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203471.png"
+  },
+  {
+    "id": 1630578,
+    "name": "Alperen Sengun",
+    "birthdate": "2002-07-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630578.png"
+  },
+  {
+    "id": 1641729,
+    "name": "Brice Sensabaugh",
+    "birthdate": "2003-10-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641729.png"
+  },
+  {
+    "id": 1629012,
+    "name": "Collin Sexton",
+    "birthdate": "1999-01-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png"
+  },
+  {
+    "id": 1629013,
+    "name": "Landry Shamet",
+    "birthdate": "1997-03-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png"
+  },
+  {
+    "id": 1630545,
+    "name": "Terrence Shannon Jr.",
+    "birthdate": "2000-07-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630545.png"
+  },
+  {
+    "id": 1630549,
+    "name": "Day'Ron Sharpe",
+    "birthdate": "2001-11-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630549.png"
+  },
+  {
+    "id": 1631101,
+    "name": "Shaedon Sharpe",
+    "birthdate": "2003-05-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.png"
+  },
+  {
+    "id": 1642347,
+    "name": "Jamal Shead",
+    "birthdate": "2002-07-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642347.png"
+  },
+  {
+    "id": 1641767,
+    "name": "Ben Sheppard",
+    "birthdate": "2001-07-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641767.png"
+  },
+  {
+    "id": 1642263,
+    "name": "Reed Sheppard",
+    "birthdate": "2004-06-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642263.png"
+  },
+  {
+    "id": 1627783,
+    "name": "Pascal Siakam",
+    "birthdate": "1994-04-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png"
+  },
+  {
+    "id": 1627732,
+    "name": "Ben Simmons",
+    "birthdate": "1996-07-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png"
+  },
+  {
+    "id": 1629014,
+    "name": "Anfernee Simons",
+    "birthdate": "1999-06-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png"
+  },
+  {
+    "id": 1642354,
+    "name": "KJ Simpson",
+    "birthdate": "2002-08-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642354.png"
+  },
+  {
+    "id": 1630579,
+    "name": "Jericho Sims",
+    "birthdate": "1998-10-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png"
+  },
+  {
+    "id": 203935,
+    "name": "Marcus Smart",
+    "birthdate": "1994-03-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+  },
+  {
+    "id": 1630696,
+    "name": "Dru Smith",
+    "birthdate": "1997-12-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630696.png"
+  },
+  {
+    "id": 1630188,
+    "name": "Jalen Smith",
+    "birthdate": "2000-03-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.png"
+  },
+  {
+    "id": 1642449,
+    "name": "Tolu Smith",
+    "birthdate": "2000-07-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642449.png"
+  },
+  {
+    "id": 1641890,
+    "name": "Tyler Smith",
+    "birthdate": "2004-11-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641890.png"
+  },
+  {
+    "id": 1631095,
+    "name": "Jabari Smith Jr.",
+    "birthdate": "2003-05-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631095.png"
+  },
+  {
+    "id": 1641733,
+    "name": "Nick Smith Jr.",
+    "birthdate": "2004-04-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641733.png"
+  },
+  {
+    "id": 1631110,
+    "name": "Jeremy Sochan",
+    "birthdate": "2003-05-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.png"
+  },
+  {
+    "id": 1642285,
+    "name": "Cam Spencer",
+    "birthdate": "2000-04-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642285.png"
+  },
+  {
+    "id": 1630311,
+    "name": "Pat Spencer",
+    "birthdate": "1996-07-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630311.png"
+  },
+  {
+    "id": 1630531,
+    "name": "Jaden Springer",
+    "birthdate": "2002-09-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.png"
+  },
+  {
+    "id": 1641815,
+    "name": "Isaiah Stevens",
+    "birthdate": "2000-11-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641815.png"
+  },
+  {
+    "id": 1630205,
+    "name": "Lamar Stevens",
+    "birthdate": "1997-07-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630205.png"
+  },
+  {
+    "id": 1630191,
+    "name": "Isaiah Stewart",
+    "birthdate": "2001-05-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png"
+  },
+  {
+    "id": 1631124,
+    "name": "Julian Strawther",
+    "birthdate": "2002-04-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631124.png"
+  },
+  {
+    "id": 1629622,
+    "name": "Max Strus",
+    "birthdate": "1996-03-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629622.png"
+  },
+  {
+    "id": 1630591,
+    "name": "Jalen Suggs",
+    "birthdate": "2001-06-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png"
+  },
+  {
+    "id": 1631306,
+    "name": "Cole Swider",
+    "birthdate": "1999-05-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631306.png"
+  },
+  {
+    "id": 1630256,
+    "name": "Jae'Sean Tate",
+    "birthdate": "1995-10-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630256.png"
+  },
+  {
+    "id": 1628369,
+    "name": "Jayson Tatum",
+    "birthdate": "1998-03-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
+  },
+  {
+    "id": 1630678,
+    "name": "Terry Taylor",
+    "birthdate": "1999-09-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630678.png"
+  },
+  {
+    "id": 202066,
+    "name": "Garrett Temple",
+    "birthdate": "1986-05-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202066.png"
+  },
+  {
+    "id": 1631207,
+    "name": "Dalen Terry",
+    "birthdate": "2002-07-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.png"
+  },
+  {
+    "id": 1628464,
+    "name": "Daniel Theis",
+    "birthdate": "1992-04-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628464.png"
+  },
+  {
+    "id": 1630560,
+    "name": "Cam Thomas",
+    "birthdate": "2001-10-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.png"
+  },
+  {
+    "id": 1641708,
+    "name": "Amen Thompson",
+    "birthdate": "2003-01-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png"
+  },
+  {
+    "id": 1641709,
+    "name": "Ausar Thompson",
+    "birthdate": "2003-01-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+  },
+  {
+    "id": 1630679,
+    "name": "Ethan Thompson",
+    "birthdate": "1999-05-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630679.png"
+  },
+  {
+    "id": 202691,
+    "name": "Klay Thompson",
+    "birthdate": "1990-02-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202691.png"
+  },
+  {
+    "id": 202684,
+    "name": "Tristan Thompson",
+    "birthdate": "1991-03-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202684.png"
+  },
+  {
+    "id": 1630550,
+    "name": "JT Thor",
+    "birthdate": "2002-08-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630550.png"
+  },
+  {
+    "id": 1629680,
+    "name": "Matisse Thybulle",
+    "birthdate": "1997-03-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
+  },
+  {
+    "id": 1630214,
+    "name": "Xavier Tillman",
+    "birthdate": "1999-01-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png"
+  },
+  {
+    "id": 1631166,
+    "name": "Drew Timme",
+    "birthdate": "2000-09-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631166.png"
+  },
+  {
+    "id": 1641772,
+    "name": "Nae'Qwan Tomlin",
+    "birthdate": "2000-12-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641772.png"
+  },
+  {
+    "id": 1642260,
+    "name": "Nikola Topi\u0107",
+    "birthdate": "2005-08-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642260.png"
+  },
+  {
+    "id": 1631210,
+    "name": "Jacob Toppin",
+    "birthdate": "2000-05-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631210.png"
+  },
+  {
+    "id": 1630167,
+    "name": "Obi Toppin",
+    "birthdate": "1998-03-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.png"
+  },
+  {
+    "id": 1626157,
+    "name": "Karl-Anthony Towns",
+    "birthdate": "1995-11-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png"
+  },
+  {
+    "id": 1642422,
+    "name": "Armel Traor\u00e9",
+    "birthdate": "2003-01-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642422.png"
+  },
+  {
+    "id": 1631247,
+    "name": "Luke Travers",
+    "birthdate": "2001-09-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631247.png"
+  },
+  {
+    "id": 1629018,
+    "name": "Gary Trent Jr.",
+    "birthdate": "1999-01-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png"
+  },
+  {
+    "id": 1631131,
+    "name": "Oscar Tshiebwe",
+    "birthdate": "1999-11-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631131.png"
+  },
+  {
+    "id": 200782,
+    "name": "P.J. Tucker",
+    "birthdate": "1985-05-05",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/200782.png"
+  },
+  {
+    "id": 1626167,
+    "name": "Myles Turner",
+    "birthdate": "1996-03-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626167.png"
+  },
+  {
+    "id": 1641816,
+    "name": "Hunter Tyson",
+    "birthdate": "2000-06-13",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641816.png"
+  },
+  {
+    "id": 1642281,
+    "name": "Jaylon Tyson",
+    "birthdate": "2002-12-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642281.png"
+  },
+  {
+    "id": 1630649,
+    "name": "Stanley Umude",
+    "birthdate": "1999-04-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630649.png"
+  },
+  {
+    "id": 202685,
+    "name": "Jonas Valan\u010di\u016bnas",
+    "birthdate": "1992-05-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202685.png"
+  },
+  {
+    "id": 1627832,
+    "name": "Fred VanVleet",
+    "birthdate": "1994-02-25",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png"
+  },
+  {
+    "id": 1629020,
+    "name": "Jarred Vanderbilt",
+    "birthdate": "1999-04-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+  },
+  {
+    "id": 1630170,
+    "name": "Devin Vassell",
+    "birthdate": "2000-08-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.png"
+  },
+  {
+    "id": 1629216,
+    "name": "Gabe Vincent",
+    "birthdate": "1996-06-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629216.png"
+  },
+  {
+    "id": 1641774,
+    "name": "Tristan Vukcevic",
+    "birthdate": "2003-03-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641774.png"
+  },
+  {
+    "id": 202696,
+    "name": "Nikola Vu\u010devi\u0107",
+    "birthdate": "1990-10-24",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png"
+  },
+  {
+    "id": 1629731,
+    "name": "Dean Wade",
+    "birthdate": "1996-11-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629731.png"
+  },
+  {
+    "id": 1630532,
+    "name": "Franz Wagner",
+    "birthdate": "2001-08-27",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png"
+  },
+  {
+    "id": 1629021,
+    "name": "Moritz Wagner",
+    "birthdate": "1997-04-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png"
+  },
+  {
+    "id": 1631133,
+    "name": "Jabari Walker",
+    "birthdate": "2002-07-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631133.png"
+  },
+  {
+    "id": 1641716,
+    "name": "Jarace Walker",
+    "birthdate": "2003-09-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641716.png"
+  },
+  {
+    "id": 1629022,
+    "name": "Lonnie Walker IV",
+    "birthdate": "1998-12-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png"
+  },
+  {
+    "id": 1641717,
+    "name": "Cason Wallace",
+    "birthdate": "2003-11-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641717.png"
+  },
+  {
+    "id": 1630811,
+    "name": "Keaton Wallace",
+    "birthdate": "1999-02-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630811.png"
+  },
+  {
+    "id": 1641775,
+    "name": "Jordan Walsh",
+    "birthdate": "2004-03-03",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641775.png"
+  },
+  {
+    "id": 1642266,
+    "name": "Ja'Kobe Walter",
+    "birthdate": "2004-09-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642266.png"
+  },
+  {
+    "id": 1642276,
+    "name": "Kel'el Ware",
+    "birthdate": "2004-04-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642276.png"
+  },
+  {
+    "id": 1629023,
+    "name": "P.J. Washington",
+    "birthdate": "1998-08-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png"
+  },
+  {
+    "id": 1631102,
+    "name": "TyTy Washington Jr.",
+    "birthdate": "2001-11-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631102.png"
+  },
+  {
+    "id": 1630322,
+    "name": "Lindy Waters III",
+    "birthdate": "1997-07-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630322.png"
+  },
+  {
+    "id": 1630570,
+    "name": "Trendon Watford",
+    "birthdate": "2000-11-09",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630570.png"
+  },
+  {
+    "id": 1641817,
+    "name": "Anton Watson",
+    "birthdate": "2000-10-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641817.png"
+  },
+  {
+    "id": 1631212,
+    "name": "Peyton Watson",
+    "birthdate": "2002-09-11",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.png"
+  },
+  {
+    "id": 1642377,
+    "name": "Jaylen Wells",
+    "birthdate": "2003-08-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642377.png"
+  },
+  {
+    "id": 1641705,
+    "name": "Victor Wembanyama",
+    "birthdate": "2004-01-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+  },
+  {
+    "id": 1631104,
+    "name": "Blake Wesley",
+    "birthdate": "2003-03-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.png"
+  },
+  {
+    "id": 201566,
+    "name": "Russell Westbrook",
+    "birthdate": "1988-11-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png"
+  },
+  {
+    "id": 1630762,
+    "name": "Phillip Wheeler",
+    "birthdate": "2002-04-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630762.png"
+  },
+  {
+    "id": 1629632,
+    "name": "Coby White",
+    "birthdate": "2000-02-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png"
+  },
+  {
+    "id": 1628401,
+    "name": "Derrick White",
+    "birthdate": "1994-07-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"
+  },
+  {
+    "id": 1641727,
+    "name": "Dariq Whitehead",
+    "birthdate": "2004-08-01",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641727.png"
+  },
+  {
+    "id": 1641715,
+    "name": "Cam Whitmore",
+    "birthdate": "2004-07-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641715.png"
+  },
+  {
+    "id": 1630598,
+    "name": "Aaron Wiggins",
+    "birthdate": "1999-01-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630598.png"
+  },
+  {
+    "id": 203952,
+    "name": "Andrew Wiggins",
+    "birthdate": "1995-02-23",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203952.png"
+  },
+  {
+    "id": 1631214,
+    "name": "Alondes Williams",
+    "birthdate": "1999-06-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631214.png"
+  },
+  {
+    "id": 1630314,
+    "name": "Brandon Williams",
+    "birthdate": "1999-11-22",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630314.png"
+  },
+  {
+    "id": 1642262,
+    "name": "Cody Williams",
+    "birthdate": "2004-11-20",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642262.png"
+  },
+  {
+    "id": 1629684,
+    "name": "Grant Williams",
+    "birthdate": "1998-11-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.png"
+  },
+  {
+    "id": 1631114,
+    "name": "Jalen Williams",
+    "birthdate": "2001-04-14",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png"
+  },
+  {
+    "id": 1631119,
+    "name": "Jaylin Williams",
+    "birthdate": "2002-06-29",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631119.png"
+  },
+  {
+    "id": 1629026,
+    "name": "Kenrich Williams",
+    "birthdate": "1994-12-02",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629026.png"
+  },
+  {
+    "id": 1631109,
+    "name": "Mark Williams",
+    "birthdate": "2001-12-16",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png"
+  },
+  {
+    "id": 1631466,
+    "name": "Nate Williams",
+    "birthdate": "1999-02-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631466.png"
+  },
+  {
+    "id": 1630172,
+    "name": "Patrick Williams",
+    "birthdate": "2001-08-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630172.png"
+  },
+  {
+    "id": 1630533,
+    "name": "Ziaire Williams",
+    "birthdate": "2001-09-12",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.png"
+  },
+  {
+    "id": 1629057,
+    "name": "Robert Williams III",
+    "birthdate": "1997-10-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.png"
+  },
+  {
+    "id": 1631246,
+    "name": "Vince Williams Jr.",
+    "birthdate": "2000-08-30",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631246.png"
+  },
+  {
+    "id": 1629627,
+    "name": "Zion Williamson",
+    "birthdate": "2000-07-06",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png"
+  },
+  {
+    "id": 1630592,
+    "name": "Jalen Wilson",
+    "birthdate": "2000-11-04",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630592.png"
+  },
+  {
+    "id": 1630164,
+    "name": "James Wiseman",
+    "birthdate": "2001-03-31",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.png"
+  },
+  {
+    "id": 1631209,
+    "name": "Isaiah Wong",
+    "birthdate": "2001-01-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631209.png"
+  },
+  {
+    "id": 1626153,
+    "name": "Delon Wright",
+    "birthdate": "1992-04-26",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626153.png"
+  },
+  {
+    "id": 1627824,
+    "name": "Guerschon Yabusele",
+    "birthdate": "1995-12-17",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627824.png"
+  },
+  {
+    "id": 1642385,
+    "name": "Cui Yongxi",
+    "birthdate": "2003-05-28",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642385.png"
+  },
+  {
+    "id": 1642443,
+    "name": "Jahmir Young",
+    "birthdate": "2000-10-07",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642443.png"
+  },
+  {
+    "id": 1629027,
+    "name": "Trae Young",
+    "birthdate": "1998-09-19",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png"
+  },
+  {
+    "id": 1627826,
+    "name": "Ivica Zubac",
+    "birthdate": "1997-03-18",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627826.png"
+  },
+  {
+    "id": 1641783,
+    "name": "Tristan da Silva",
+    "birthdate": "2001-05-15",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641783.png"
+  },
+  {
+    "id": 1628427,
+    "name": "Vlatko \u010can\u010dar",
+    "birthdate": "1997-04-10",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628427.png"
+  },
+  {
+    "id": 203967,
+    "name": "Dario \u0160ari\u0107",
+    "birthdate": "1994-04-08",
+    "is_active": true,
+    "headshot": "https://cdn.nba.com/headshots/nba/latest/1040x760/203967.png"
+  }
+]
