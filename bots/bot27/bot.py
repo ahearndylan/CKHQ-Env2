@@ -151,7 +151,7 @@ for p in top_players:
         totals = career_totals_from_df(df)
 
         # Debug line (helps verify numbers)
-        print(f"DEBUG {p['name']}: PTS={totals['PTS']} AST={totals['AST']} REB={totals['REB']} 3PM={totals['FG3M']}")
+        #print(f"DEBUG {p['name']}: PTS={totals['PTS']} AST={totals['AST']} REB={totals['REB']} 3PM={totals['FG3M']}")
 
         for stat, info in milestones.items():
             val = totals[stat]
